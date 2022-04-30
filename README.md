@@ -1,2 +1,11 @@
-# eda_youtube_trending_videos
-Exploratory data analysis of YouTube trending videos database (Kaggle)
+# Exploratory Data Analysis: YouTube trending videos  
+(Kaggle database)
+
+## Objective
+This repository contains an EDA on daily statistics for trending YouTube videos.  
+
+## Structure
+- Cleaning data
+- Visualising descriptive statistics
+- Hypothesis
+- Testing
